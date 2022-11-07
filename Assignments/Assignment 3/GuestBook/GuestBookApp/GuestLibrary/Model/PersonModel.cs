@@ -12,9 +12,9 @@ namespace GuestLibrary.Model
         public string LastName { get; set; }
         private string _phoneNumber;
 
-        public virtual void Speak(string language)
+        public virtual void Speak()
         {
-            Console.WriteLine($"This person can speak {language}");
+            Console.WriteLine($"This person can speak English");
         }
 
         public string PhoneNumber

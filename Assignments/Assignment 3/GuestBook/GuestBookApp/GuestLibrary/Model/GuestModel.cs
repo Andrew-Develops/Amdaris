@@ -27,9 +27,9 @@ namespace GuestLibrary.Model
             Console.WriteLine($"The tip for your service is: {tipAmmount}");
         }
 
-        public virtual void Speak(string firstLanguage, string secondLanguage)
+        public override void Speak()
         {
-            Console.WriteLine($"This person can speak {firstLanguage} and {secondLanguage}");
+            Console.WriteLine($"This person can speak English and French");
         }
     }
 }
