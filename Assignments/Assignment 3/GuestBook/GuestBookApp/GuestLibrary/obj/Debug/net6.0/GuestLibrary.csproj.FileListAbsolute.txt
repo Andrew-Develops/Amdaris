@@ -1,0 +1,12 @@
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 3\GuestBook\GuestBookApp\GuestLibrary\obj\Debug\net6.0\GuestLibrary.csproj.AssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 3\GuestBook\GuestBookApp\GuestLibrary\obj\Debug\net6.0\GuestLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 3\GuestBook\GuestBookApp\GuestLibrary\obj\Debug\net6.0\GuestLibrary.AssemblyInfoInputs.cache
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 3\GuestBook\GuestBookApp\GuestLibrary\obj\Debug\net6.0\GuestLibrary.AssemblyInfo.cs
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 3\GuestBook\GuestBookApp\GuestLibrary\obj\Debug\net6.0\GuestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 3\GuestBook\GuestBookApp\GuestLibrary\bin\Debug\net6.0\GuestLibrary.deps.json
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 3\GuestBook\GuestBookApp\GuestLibrary\bin\Debug\net6.0\GuestLibrary.dll
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 3\GuestBook\GuestBookApp\GuestLibrary\bin\Debug\net6.0\GuestLibrary.pdb
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 3\GuestBook\GuestBookApp\GuestLibrary\obj\Debug\net6.0\GuestLibrary.dll
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 3\GuestBook\GuestBookApp\GuestLibrary\obj\Debug\net6.0\refint\GuestLibrary.dll
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 3\GuestBook\GuestBookApp\GuestLibrary\obj\Debug\net6.0\GuestLibrary.pdb
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 3\GuestBook\GuestBookApp\GuestLibrary\obj\Debug\net6.0\ref\GuestLibrary.dll
