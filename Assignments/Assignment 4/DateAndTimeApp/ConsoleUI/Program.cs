@@ -43,13 +43,13 @@ string tags1 = "<app><app><app></app></app>";
 string tags2 = "<app></app></app><app><app>";
 string tags3 = "</app><app><app></app></app>";
 
-int count1 = OptionalAssignment.solution(tags1);
+int count1 = OptionalAssignment.Solution(tags1);
 Console.WriteLine($"Number of tags that are not in correct format: {count1}"); //1
 
-int count2 = OptionalAssignment.solution(tags2);
+int count2 = OptionalAssignment.Solution(tags2);
 Console.WriteLine($"Number of tags that are not in correct format: {count2}"); //3
 
-int count3 = OptionalAssignment.solution(tags3);
+int count3 = OptionalAssignment.Solution(tags3);
 Console.WriteLine($"Number of tags that are not in correct format: {count3}"); //1
 
 

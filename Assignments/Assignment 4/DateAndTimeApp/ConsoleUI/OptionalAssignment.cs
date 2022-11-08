@@ -13,10 +13,10 @@ namespace ConsoleUI
         // "<app></app></app><app><app>"; => 3
         // "</app><app><app></app></app>"; => 1
 
-        public static int solution(String s)
+        public static int Solution(string text)
         {
             Stack<string> stack = new Stack<string>();
-            string[] tags = s.Split(">");
+            string[] tags = text.Split(">");
             int count = 0;
             foreach (string tag in tags)
             {
