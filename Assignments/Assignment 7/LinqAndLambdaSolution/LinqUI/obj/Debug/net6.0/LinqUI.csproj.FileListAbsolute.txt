@@ -1,0 +1,15 @@
+E:\Personal\C#\LinqAndLambdaSolution\LinqUI\bin\Debug\net6.0\LinqUI.exe
+E:\Personal\C#\LinqAndLambdaSolution\LinqUI\bin\Debug\net6.0\LinqUI.deps.json
+E:\Personal\C#\LinqAndLambdaSolution\LinqUI\bin\Debug\net6.0\LinqUI.runtimeconfig.json
+E:\Personal\C#\LinqAndLambdaSolution\LinqUI\bin\Debug\net6.0\LinqUI.dll
+E:\Personal\C#\LinqAndLambdaSolution\LinqUI\bin\Debug\net6.0\LinqUI.pdb
+E:\Personal\C#\LinqAndLambdaSolution\LinqUI\obj\Debug\net6.0\LinqUI.csproj.AssemblyReference.cache
+E:\Personal\C#\LinqAndLambdaSolution\LinqUI\obj\Debug\net6.0\LinqUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Personal\C#\LinqAndLambdaSolution\LinqUI\obj\Debug\net6.0\LinqUI.AssemblyInfoInputs.cache
+E:\Personal\C#\LinqAndLambdaSolution\LinqUI\obj\Debug\net6.0\LinqUI.AssemblyInfo.cs
+E:\Personal\C#\LinqAndLambdaSolution\LinqUI\obj\Debug\net6.0\LinqUI.csproj.CoreCompileInputs.cache
+E:\Personal\C#\LinqAndLambdaSolution\LinqUI\obj\Debug\net6.0\LinqUI.dll
+E:\Personal\C#\LinqAndLambdaSolution\LinqUI\obj\Debug\net6.0\refint\LinqUI.dll
+E:\Personal\C#\LinqAndLambdaSolution\LinqUI\obj\Debug\net6.0\LinqUI.pdb
+E:\Personal\C#\LinqAndLambdaSolution\LinqUI\obj\Debug\net6.0\LinqUI.genruntimeconfig.cache
+E:\Personal\C#\LinqAndLambdaSolution\LinqUI\obj\Debug\net6.0\ref\LinqUI.dll
