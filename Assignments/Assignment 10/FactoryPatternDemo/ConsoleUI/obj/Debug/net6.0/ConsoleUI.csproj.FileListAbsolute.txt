@@ -1,0 +1,15 @@
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 10\FactoryPatternDemo\ConsoleUI\bin\Debug\net6.0\ConsoleUI.exe
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 10\FactoryPatternDemo\ConsoleUI\bin\Debug\net6.0\ConsoleUI.deps.json
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 10\FactoryPatternDemo\ConsoleUI\bin\Debug\net6.0\ConsoleUI.runtimeconfig.json
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 10\FactoryPatternDemo\ConsoleUI\bin\Debug\net6.0\ConsoleUI.dll
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 10\FactoryPatternDemo\ConsoleUI\bin\Debug\net6.0\ConsoleUI.pdb
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 10\FactoryPatternDemo\ConsoleUI\obj\Debug\net6.0\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 10\FactoryPatternDemo\ConsoleUI\obj\Debug\net6.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 10\FactoryPatternDemo\ConsoleUI\obj\Debug\net6.0\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 10\FactoryPatternDemo\ConsoleUI\obj\Debug\net6.0\ConsoleUI.AssemblyInfo.cs
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 10\FactoryPatternDemo\ConsoleUI\obj\Debug\net6.0\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 10\FactoryPatternDemo\ConsoleUI\obj\Debug\net6.0\ConsoleUI.dll
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 10\FactoryPatternDemo\ConsoleUI\obj\Debug\net6.0\refint\ConsoleUI.dll
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 10\FactoryPatternDemo\ConsoleUI\obj\Debug\net6.0\ConsoleUI.pdb
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 10\FactoryPatternDemo\ConsoleUI\obj\Debug\net6.0\ConsoleUI.genruntimeconfig.cache
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 10\FactoryPatternDemo\ConsoleUI\obj\Debug\net6.0\ref\ConsoleUI.dll
