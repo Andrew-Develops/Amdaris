@@ -10,8 +10,6 @@ truck.MaxSpeed();
 IVehicle motorcycle = new VehicleFactory().CreateVehicle("Motorcycle");
 motorcycle.MaxSpeed();
 
-
-
 public class Car : IVehicle
 {
 	public void MaxSpeed()
@@ -38,7 +36,6 @@ public class Boat : IVehicle
 
 public class VehicleFactory
 {
-
 	public IVehicle CreateVehicle(string vehicleType)
 	{
 		switch (vehicleType.ToUpper())
@@ -53,5 +50,5 @@ public class VehicleFactory
 				return null;
 		}
 	}
-
 }
+
