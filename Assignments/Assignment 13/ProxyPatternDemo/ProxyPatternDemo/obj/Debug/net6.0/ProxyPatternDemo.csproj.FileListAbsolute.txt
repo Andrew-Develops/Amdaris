@@ -1,0 +1,15 @@
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 13\ProxyPatternDemo\ProxyPatternDemo\bin\Debug\net6.0\ProxyPatternDemo.exe
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 13\ProxyPatternDemo\ProxyPatternDemo\bin\Debug\net6.0\ProxyPatternDemo.deps.json
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 13\ProxyPatternDemo\ProxyPatternDemo\bin\Debug\net6.0\ProxyPatternDemo.runtimeconfig.json
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 13\ProxyPatternDemo\ProxyPatternDemo\bin\Debug\net6.0\ProxyPatternDemo.dll
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 13\ProxyPatternDemo\ProxyPatternDemo\bin\Debug\net6.0\ProxyPatternDemo.pdb
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 13\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net6.0\ProxyPatternDemo.csproj.AssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 13\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net6.0\ProxyPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 13\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net6.0\ProxyPatternDemo.AssemblyInfoInputs.cache
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 13\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net6.0\ProxyPatternDemo.AssemblyInfo.cs
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 13\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net6.0\ProxyPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 13\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net6.0\ProxyPatternDemo.dll
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 13\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net6.0\refint\ProxyPatternDemo.dll
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 13\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net6.0\ProxyPatternDemo.pdb
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 13\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net6.0\ProxyPatternDemo.genruntimeconfig.cache
+C:\Users\Andrew\Documents\GitHub\Amdaris\Assignments\Assignment 13\ProxyPatternDemo\ProxyPatternDemo\obj\Debug\net6.0\ref\ProxyPatternDemo.dll
